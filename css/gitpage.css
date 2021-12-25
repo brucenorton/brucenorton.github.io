@@ -2,3 +2,7 @@ body{
  font-size: 18px;
   font-face: arial;
 }
+h1{
+ font: arial;
+ font-size: 2rem;
+}
