@@ -1,12 +1,12 @@
 body{
  font-size: 18px;
-  font-face: arial, sans-serif;
+  font-family: arial, sans-serif;
 }
 h1{
- font: arial;
- font-size: 2rem;
+ font-family: cambria, serif;
+ font-size: 3rem;
 }
 h3{
- font-size: 4rem;
+ font-size: 2rem;
 }
  
