@@ -43,6 +43,8 @@ img {
 /* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1600,24,1.414,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
 
 :root {
+  --step--4: clamp(0.54rem, 0.58rem + -0.21vw, 0.38rem);
+  --step--3: clamp(0.65rem, 0.68rem + -0.15vw, 0.53rem);
   --step--2: clamp(0.78rem, 0.79rem + -0.04vw, 0.75rem);
   --step--1: clamp(0.94rem, 0.91rem + 0.15vw, 1.06rem);
   --step-0: clamp(1.13rem, 1.03rem + 0.47vw, 1.5rem);
