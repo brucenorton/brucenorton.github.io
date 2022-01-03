@@ -33,6 +33,14 @@ body{
  font-size: 18px;
   font-family: arial, sans-serif;
 }
+nav{
+ height: 3rem;
+ width: 100%;
+ background: rgb(240, 240, 240);
+}
+nav img{
+ max-height: 2rem;
+}
 h1{
  font-family: cambria, serif;
  font-size: 3rem;
