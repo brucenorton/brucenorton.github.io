@@ -53,7 +53,12 @@ nav {
   height: 3rem;
   width: 100%;
   background-color: rgb(240, 240, 240);
+  padding: 0.25rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: right;
 }
+
 nav img {
   max-height: 40px;
   /* why was this not pushed?*/
