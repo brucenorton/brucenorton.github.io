@@ -96,8 +96,12 @@ nav a:focus {
 
 h1 {
   font-family: cambria, serif;
-  font-size: --step-5;
+  font-size: var(--step-5);
 }
 h3 {
-  font-size: --step-3;
+  font-size: var(--step-3);
+}
+footer {
+  text-align: center;
+  background-color: rgb(240, 240, 240);
 }
