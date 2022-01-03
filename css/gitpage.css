@@ -103,5 +103,9 @@ h3 {
 }
 footer {
   text-align: center;
-  background-color: rgb(240, 240, 240);
+  background-color: rgb(196 196 196 / 0.9);
+  padding: 1.2rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
