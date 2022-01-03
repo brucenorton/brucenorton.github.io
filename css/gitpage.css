@@ -45,6 +45,10 @@ body {
   font-size: 18px;
   font-family: arial, sans-serif;
 }
+
+main {
+  padding: 0.25rem;
+}
 nav {
   height: 3rem;
   width: 100%;
