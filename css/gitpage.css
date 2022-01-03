@@ -56,12 +56,15 @@ nav {
   padding: 0.25rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  justify-content: right;
+  justify-items: right;
 }
 
 nav img {
   max-height: 40px;
-  /* why was this not pushed?*/
+  justify-self: left;
+}
+nav a {
+  padding: 0.5rem;
 }
 h1 {
   font-family: cambria, serif;
