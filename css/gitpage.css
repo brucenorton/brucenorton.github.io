@@ -8,17 +8,29 @@ html {
   font-size: 16px;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
-body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
   margin: 0;
   padding: 0;
   font-weight: normal;
 }
 
-ol, ul {
+ol,
+ul {
   list-style: none;
 }
 
@@ -29,23 +41,22 @@ img {
 
 /* end reset */
 
-body{
- font-size: 18px;
+body {
+  font-size: 18px;
   font-family: arial, sans-serif;
 }
-nav{
- height: 3rem;
- width: 100%;
- background-color: rgb(240, 240, 240);
+nav {
+  height: 3rem;
+  width: 100%;
+  background-color: rgb(240, 240, 240);
 }
-nav img{
- max-height: 60px;
+nav img {
+  max-height: 40px;
 }
-h1{
- font-family: cambria, serif;
- font-size: 3rem;
+h1 {
+  font-family: cambria, serif;
+  font-size: 3rem;
 }
-h3{
- font-size: 2rem;
+h3 {
+  font-size: 2rem;
 }
- 
