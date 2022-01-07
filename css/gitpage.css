@@ -103,6 +103,12 @@ h1 {
 h3 {
   font-size: var(--step-3);
 }
+
+#cal {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.44rem;
+}
 footer {
   text-align: center;
   background-color: rgb(196 196 196 / 0.9);
